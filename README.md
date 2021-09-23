@@ -1,6 +1,6 @@
 # senai-versoes-colaboracoes
-Repositório treinamento SENAI 
+readme de exemplo
 
-README - Exemplo
+
 
 lembrei do comando: git status
