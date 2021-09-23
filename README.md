@@ -1,2 +1,2 @@
 # senai-versoes-colaboracoes
-Repositório treinamento SENAI 
+readme de exemplo 
